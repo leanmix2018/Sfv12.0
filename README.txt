@@ -1,0 +1,1 @@
+This is a mule project for archetype Sfv12.0
